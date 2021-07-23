@@ -10,3 +10,4 @@ Stimulating sensor-based traffic light sequence using Arduino Uno and Breadboard
 - Wires
 - Red, Yellow, Green LEDs
 
+Image and video provided as a guide to put the board together and display the intended functionality. 
